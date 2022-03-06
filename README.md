@@ -1,3 +1,6 @@
 # My-SpcaeX_Project
 
-This is a readme file for my SpaceX project
+This is my SpaceX project
+
+We will work with all the details from SpaceX.
+It includes gathering Data,cleaning data,visualization and then building ML models on top of it.
